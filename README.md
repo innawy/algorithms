@@ -8,6 +8,4 @@
 - data structure: adjacency list and edge list
 - Dijkstra's shortest path
 
-### Boyer-Moore 
-
-### Bloom filter
+### Boyer-Moore & Bloom filter
